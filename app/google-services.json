@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265574182356",
+    "project_id": "tracker-app-62c90",
+    "storage_bucket": "tracker-app-62c90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265574182356:android:caa1164a0a5f0ce1c03a41",
+        "android_client_info": {
+          "package_name": "com.example.friendlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBghGcn26L-lO3PhF4Jwbym3OKJR5UgYJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
